@@ -5,19 +5,19 @@ main:
     url: /
   
   - title: "Call for Papers"
-    url: /cfp/
+    url: /en_cfp/
 
   - title: "Venue"
-    url: /venue/
+    url: /en_venue/
     
   - title: "Registration"
-    url: /registration/
+    url: /en_registration/
 
   - title: "Programme"
-    url: /programme/
+    url: /en_programme/
     
   - title: "Contact"
-    url: /contact/
+    url: /en_contact/
 
   - title: "🇬🇷"
     url: "javascript:window.location.href=window.location.pathname.replace('/ICGL17-EN/', '/ICGL17-GR/');"
