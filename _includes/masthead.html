@@ -52,3 +52,23 @@ color:#CCCCCC
     </div>
   </div>
 </div>
+<script>
+if (window.location.href.includes("gr_")) {
+    document.querySelectorAll('li.masthead__menu-item a').forEach(function(a) {
+        a.href = a.href.replace('gr_', '');
+        const textReplacement = {
+            "Home": "Αρχική",
+            "Call for Papers": "Πρόσκληση",
+            "Venue": "Χώρος",
+            "Registration": "Εγγραφή",
+            "Programme": "Πρόγραμμα",
+            "Contact": "Επικοινωνία",
+            "🇬🇷": "🇬🇧"
+        };
+        a.textContent = textReplacement[a.textContent.trim()] || a.textContent;
+    });
+    document.querySelectorAll('a.site-title').forEach(function(a) {
+        a.textContent = "17η ΔΣΕΓ";
+    });
+}
+</script>
