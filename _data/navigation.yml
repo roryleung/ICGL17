@@ -20,7 +20,7 @@ main:
     url: /en_contact/
 
   - title: "🇬🇷"
-    url: "javascript:var path = window.location.pathname; window.location.href = path.endsWith("/ICGL17-EN/") ? path + "gr_home/" : path.replace("/en_", "/gr_");"
+    url: 'javascript:var path = window.location.pathname; window.location.href = path.endsWith("/ICGL17-EN/") ? path + "gr_home/" : path.replace("/en_", "/gr_");'
 
   - title: "Αρχική"
     url: /gr_home/
@@ -41,4 +41,4 @@ main:
     url: /gr_contact/    
 
   - title: "🇬🇧"
-    url: "javascript:var path = window.location.pathname; window.location.href = path.endsWith("gr_home/") ? path.slice(0, -8) : path.replace("/gr_", "/en_");"    
+    url: 'javascript:var path = window.location.pathname; window.location.href = path.endsWith("gr_home/") ? path.slice(0, -8) : path.replace("/gr_", "/en_");'   
