@@ -1,5 +1,5 @@
 ---
-title: "The 17th International Conference on Greek Linguistics"
+title: "17η Διεθνής Συνάντηση για την Ελληνική Γλωσσολογία   "
 layout: splash
 permalink: /gr_registration/
 toc: true
