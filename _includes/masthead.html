@@ -24,8 +24,7 @@ color:#CCCCCC
             {%- else -%}
               {%- assign url = link.url | relative_url -%}
             {%- endif -%}
-            {% assign first_chars = link.url | slice: 0, 3 %}
-            {% if first_chars == '/gr' %}
+            {% if link.url contains 'gr' %}
               <li class="masthead__menu-item">
                 <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
               </li>
