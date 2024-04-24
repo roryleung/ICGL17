@@ -1,7 +1,7 @@
 ---
 title: "17η Διεθνής Συνάντηση για την Ελληνική Γλωσσολογία         "
 layout: splash
-permalink: /contact/
+permalink: /gr_contact/
 header:
   overlay_image: "/assets/images/river_cam.jpg"
   # caption: 'Photo of the river in Cambridge, U.K.'
