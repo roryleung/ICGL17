@@ -20,7 +20,7 @@ livereload: true
 locale                   : "en-US"
 title                    : "  "
 title_separator          : "  "
-name                     : "17η ΔΣΕΓ"
+name                     : "ICGL17"
 description              : "Official website for the 17th International Conference on Greek Linguistics"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -33,7 +33,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "17η ΔΣΕΓ"
+    shortname            : "ICGL17"
 reCaptcha:
   siteKey                :
   secret                 :
