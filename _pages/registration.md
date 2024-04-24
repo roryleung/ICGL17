@@ -1,7 +1,7 @@
 ---
 title: "The 17th International Conference on Greek Linguistics"
 layout: splash
-permalink: /registration/
+permalink: /en_registration/
 toc: true
 toc_sticky: true
 toc_icon: "cog"
