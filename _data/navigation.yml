@@ -20,25 +20,4 @@ main:
     url: /en_contact/
 
   - title: "🇬🇷"
-    url: 'javascript:var path = window.location.pathname; window.location.href = path.endsWith("/ICGL17-EN/") ? path + "gr_home/" : path.replace("/en_", "/gr_");'
-
-  - title: "Αρχική"
-    url: /gr_home/
-  
-  - title: "Πρόσκληση"
-    url: /gr_cfp/
-
-  - title: "Χώρος"
-    url: /gr_venue/    
-  
-  - title: "Εγγραφή"
-    url: /gr_registration/    
-
-  - title: "Πρόγραμμα"
-    url: /gr_programme/    
-    
-  - title: "Επικοινωνία"
-    url: /gr_contact/    
-
-  - title: "🇬🇧"
-    url: 'javascript:var path = window.location.pathname; window.location.href = path.endsWith("gr_home/") ? path.slice(0, -8) : path.replace("/gr_", "/en_");'   
+    url: "javascript:window.location.href=window.location.pathname.replace('/en_', '/gr_');"
