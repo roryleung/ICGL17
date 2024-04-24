@@ -3,56 +3,42 @@
 main:
   - title: "Home"
     url: /
-    lang: "en"
   
   - title: "Call for Papers"
     url: /en_cfp/
-    lang: "en"
 
   - title: "Venue"
     url: /en_venue/
-    lang: "en"
     
   - title: "Registration"
     url: /en_registration/
-    lang: "en"
 
   - title: "Programme"
     url: /en_programme/
-    lang: "en"
     
   - title: "Contact"
     url: /en_contact/
-    lang: "en"
 
   - title: "🇬🇷"
     url: "javascript:var path = window.location.pathname; window.location.href = path.endsWith("/ICGL17-EN/") ? path + "gr_home/" : path.replace("/en_", "/gr_");"
-    lang: "en"
 
   - title: "Αρχική"
     url: /gr_home/
-    lang: "gr"
   
   - title: "Πρόσκληση"
     url: /gr_cfp/
-    lang: "gr"
 
   - title: "Χώρος"
     url: /gr_venue/    
-    lang: "gr"
   
   - title: "Εγγραφή"
     url: /gr_registration/    
-    lang: "gr"
 
   - title: "Πρόγραμμα"
     url: /gr_programme/    
-    lang: "gr"
     
   - title: "Επικοινωνία"
     url: /gr_contact/    
-    lang: "gr"
 
   - title: "🇬🇧"
     url: "javascript:var path = window.location.pathname; window.location.href = path.endsWith("gr_home/") ? path.slice(0, -8) : path.replace("/gr_", "/en_");"    
-    lang: "gr"
