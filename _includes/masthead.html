@@ -55,7 +55,14 @@ color:#CCCCCC
 <script>
 if (window.location.href.includes("gr_")) {
     document.querySelectorAll('li.masthead__menu-item a').forEach(function(a) {
-        a.href = a.href.replace('gr_', '');
+        if (a.href.startsWith("javascript:")) {
+            a.href = "javascript:window.location.href=window.location.pathname.replace('/gr_', '/en_');";
+        } else if (!a.href.includes("en_")) {
+            a.href += "gr_home/";
+        } else {
+            a.href = a.href.replace('en_', 'gr_');
+        }
+
         const textReplacement = {
             "Home": "Αρχική",
             "Call for Papers": "Πρόσκληση",
