@@ -11,17 +11,15 @@ header:
 excerpt: "23-26 Σεπτεμβρίου 2025<br>Πανεπιστήμιο του Κέιμπριτζ, Ηνωμένο Βασίλειο"
 ---
 
-## Registration information
+## Πληροφορίες για τις εγγραφές
 
-Registration for the conference is priced as follows:
+Η τιμή εγγραφής για το συνέδριο έχει ως εξής:
 
-| Category | GBP |
+| κατηγορία | GBP |
 | --- | --- |
-| Early-bird standard | 120.00 |
-| Standard full-price | 150.00 |
-| Early-bird student | 80.00 |
-| Student full-price | 100.00 |
+| Πρότυπο πρώιμου πτηνού | 120.00 |
+| Τυπική πλήρης τιμή | 150.00 |
+| Πρώιμος μαθητής | 80.00 |
+| Φοιτητική πλήρης τιμή | 100.00 |
 
-_The early bird fees are applicable for registrations completed on or before **February 15, 2025**._
-
-Other details regarding registration are will be released shortly.
+_Τα τέλη πρόωρων πουλιών ισχύουν για εγγραφές που έχουν ολοκληρωθεί στις ή πριν από τις **15 Φεβρουαρίου 2025**._
