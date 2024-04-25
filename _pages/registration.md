@@ -23,3 +23,5 @@ Registration for the conference is priced as follows:
 | Student full-price | 100.00 |
 
 _The early bird fees are applicable for registrations completed on or before **February 15, 2025**._
+
+Other details regarding registration are will be released shortly. 
