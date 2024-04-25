@@ -1,6 +1,6 @@
 # IVACS 2024 conference website
 
-This is the code for the conference website for the [2024 Conference on Inter-Varietal Applied Corpus Studies]() (IVACS 2024) -- based on the code for [EMNLP 2023](https://github.com/acl-org/emnlp-2023)
+This is the code for the conference website for the [17th International Conference on Greek Linguistics](https://http://icgl17.mmll.cam.ac.uk) (ICGL17) -- based on the code for [IVACS 2024](https://github.com/cainesap/ivacs2024)
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
@@ -42,16 +42,17 @@ If you fork this repository, the following files are the ones to pay attention t
 - `_posts/*.md` : If you are going to have a blog, this where the blog posts live and are named `YYYY-MM-DD-title.md`. Same as the
   files under `_pages`, you should move out already existing files from this folder to prevent them from getting rendered.
 
+- `_includes/masthead.html`: A block of Javascript code is appended at the end of the file such that the navigation menu can be changed according to users' langauge choice (Greek/English). You should remove it if you are not planning for your site to be multilingual. 
+
 - `CNAME` : You should delete this file since this contains the old external domain from the older conference. This file will be
   automatically re-generated when you add the new external domain for the new conference. If you do not remove this file, you will
   get a page build warning from GitHub.
 
-
 ## Domain Setup
 
-In my case the underlying GitHub Pages URL is https://cainesap.github.io/ivacs2024/
+In my case the underlying GitHub Pages URL is https://roryleung.github.io/ICGL17/
 
-I bought a domain (https://www.ivacs2024.com/) and configured the repository settings, and those for the domain as described here: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+I have a university-based domain (https://icgl17.mmll.cam.ac.uk/) set up and changed the repository settings to point the CNAME to 'roryleung.github.io', and those for the domain as described here: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
 
 
 ## License
