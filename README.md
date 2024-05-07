@@ -1,6 +1,6 @@
 # IVACS 2024 conference website
 
-This is the code for the conference website for the [17th International Conference on Greek Linguistics](https://http://icgl17.mmll.cam.ac.uk) (ICGL17) -- based on the code for [IVACS 2024](https://github.com/cainesap/ivacs2024)
+This is the code for the conference website for the [17th International Conference on Greek Linguistics](https://http://icgl17.mmll.cam.ac.uk) (ICGL17) -- based on the code for [IVACS 2024](https://github.com/cainesap/ivacs2024).
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
@@ -17,8 +17,6 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 For a new conferences, you may either set up a repository from scratch by forking the original [Minimal Mistakes repository](https://mmistakes.github.io/minimal-mistakes/) or you may fork this repository directly. The latter may be easiest since all of the changes that are required for more complex things like the web-based schedule to work are already there. However, the disadvantage of forking this repository is that the version of the Minimal Mistakes theme will be out of date and you might miss out on bugfixes and new features. 
 
 **IMPORTANT**: Note also that if you fork this repository, you will get all of the existing conference's pages and blog posts and schedule and other content. Therefore, it is up to you to modify/temporarily remove that content before you make your website public so that your new domain is not indexed by search engines with old content. It might be best to rename the `gh-pages` branch so that the website for the new conference does not get built with content from the old conference. You can rename the branch back to `gh-pages` once you have made sufficient changes locally to remove/modify the old conference content.
-
-**Extra note based on my experience for IVACS'24**: I downloaded the [EMNLP 2023](https://github.com/acl-org/emnlp-2023) repository, unzipped, pruned some of the unnecessary files which were specific to EMNLP (images, blogposts, subpages, etc), and edited the files mentioned below. Then created a new GitHub repository, pushed this local repository using git, and updated the GitHub repository settings under 'Pages' (source and build) in order to publish under my <username>.github.io/<repository_name> . In addition I edited the Gemfile and _config as instructed on the [Mimimal Mistakes page](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remote-theme-method) (I specified the version of MM forked for NAACL'21 -> EMNLP'23 which was 4.16.4). After a short delay to build, the page went live :)
 
 
 ## Important Files
