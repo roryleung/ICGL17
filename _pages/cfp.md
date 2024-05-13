@@ -16,7 +16,7 @@ ICGL has been held every two years since 1993 and focuses on all aspects of the 
 
 ### Submission for Paper Presentations
 
-Those who wish to participate in ICGL17 with a presentation are invited to submit two copies of their abstracts (one anonymous and one signed) by **15th September 2024**. Notification of acceptance will be sent by **15th December 2024**. Each participant is entitled to submit only **one** (single or joined) paper presentation. In exceptional circumstances a single and a joined paper by the same author might be allowed - please contact the Organising Committee for further details. Papers may be presented either in Greek or in English and should be 20 minutes long followed by a 10-minute discussion. 
+Those who wish to participate in ICGL17 with a presentation are invited to submit two copies of their abstracts (one anonymous and one signed) by **15th September 2024**. Notification of acceptance will be sent by **15th December 2024**. Each participant is entitled to submit only **one** (single or joined) paper presentation. In exceptional circumstances a single and a joined paper by the same author might be allowed - please contact the Organising Committee for further details. Papers may be presented either in Greek or in English and should be 20 minutes long followed by a 10-minute discussion. Information on poster presentations will be sent out in the near future.
 
 
 ### Submission for Thematic Workshops  
