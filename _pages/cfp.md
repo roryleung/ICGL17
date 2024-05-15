@@ -21,7 +21,7 @@ Those who wish to participate in ICGL17 with a presentation are invited to submi
 
 ### Submission for Thematic Workshops  
 
-Researchers who wish to organize a workshop are welcome to submit a single A4 page abstract detailing its content. Workshops on all areas of the analysis of Greek are welcome. 
+Researchers who wish to organise a workshop are welcome to submit a single A4 page abstract detailing its content. Workshops on all areas of the analysis of Greek are welcome. 
 
 The following information should be included in the abstract submitted on the form:  
 1.	Organiser’s Name and affiliation
