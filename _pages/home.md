@@ -22,14 +22,3 @@ Please see the _[Call for Papers](/en_cfp/)_
 * Kleanthes Grohmann, University of Cyprus
 * Sophia Marmaridou, National and Kapodistrian University of Athens
 * George Tsoulas, University of York
-
-
-### Organising Committee
-
-* Ianthi Tsimpli _(Chair)_
-* Dora Alexopoulou
-* Napoleon Katsos
-* Ioanna Sitaridou
-* Leonardo Russo-Cardona
-* Chara Triandafyllidou
-* Dimitrios Kastanas
