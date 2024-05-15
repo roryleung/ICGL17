@@ -22,15 +22,3 @@ To 17ο Διεθνές Συνέδριο Ελληνικής Γλωσσολογί�
 * Kleanthes Grohmann, Πανεπιστήμιο Κύπρου
 * Sophia Marmaridou, Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών
 * George Tsoulas, Πανεπιστήμιο του Γιορκ
-
-
-
-### Οργανωτική Επιτροπή
-
-* Ianthi Tsimpli _(Πρόεδρος)_
-* Dora Alexopoulou
-* Napoleon Katsos
-* Ioanna Sitaridou
-* Leonardo Russo-Cardona
-* Chara Triandafyllidou
-* Dimitrios Kastanas
