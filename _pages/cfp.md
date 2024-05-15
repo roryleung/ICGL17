@@ -10,7 +10,7 @@ excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
 
 ## Call for Papers
 
-The Faculty of Medieval and Modern Languages & Linguistics (MMLL) and the Cambridge Centre for Greek Studies (CCGS) are pleased to announce the 17th International Conference of Greek Linguistics to be held at the University of Cambridge on **September 23-26 2025**. 
+The Faculty of Medieval and Modern Languages & Linguistics (MMLL) and the Cambridge Centre for Greek Studies (CCGS) are pleased to announce the 17th International Conference of Greek Linguistics to be held at the University of Cambridge on **23-26 September 2025**. 
 
 ICGL has been held every two years since 1993 and focuses on all aspects of the linguistic study of Greek, from Ancient to Modern. A small number of thematic workshops will be held as part of the conference. We invite contributions for papers and workshops on any field of Greek Linguistics. Abstracts should be submitted through [this link](https://app.oxfordabstracts.com/stages/47829/submitter) after creating an account following the instructions.
 
