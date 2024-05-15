@@ -18,7 +18,7 @@ Please see the _[Call for Papers](/en_cfp/)_
 
 * Mary Baltazani, University of Oxford
 * Vicky Chondrogianni, University of Edinburgh
-* Giorgos Giannakis, Aristotle University of Thessaloniki
+* Georgios Giannakis, Aristotle University of Thessaloniki
 * Kleanthes Grohmann, University of Cyprus
 * Sophia Marmaridou, National and Kapodistrian University of Athens
 * George Tsoulas, University of York
