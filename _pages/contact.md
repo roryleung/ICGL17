@@ -8,6 +8,16 @@ header:
 excerpt: "23-26th September 2025<br>University of Cambridge, U.K."
 ---
 
-## Contact Us
+### Contact Us
 
 For more information, contact the Organising Committee at <a href="mailto:icgl17@mmll.cam.ac.uk" target="_blank">icgl17@cam.ac.uk</a>. 
+
+### Organising Committee
+
+* Ianthi Tsimpli _(Chair)_
+* Dora Alexopoulou
+* Napoleon Katsos
+* Ioanna Sitaridou
+* Leonardo Russo-Cardona
+* Chara Triandafyllidou
+* Dimitrios Kastanas
