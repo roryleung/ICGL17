@@ -8,7 +8,7 @@ toc_icon: "cog"
 header:
   overlay_image: "/assets/images/river_cam.jpg"
   # caption: 'Photo of the river in Cambridge, U.K.'
-excerpt: "23-26th September 2025<br>University of Cambridge, U.K."
+excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
 ---
 
 ## Registration information
