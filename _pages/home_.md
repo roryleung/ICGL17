@@ -10,7 +10,7 @@ excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
 
 ## Welcome!
 
-The 17th International Conference on Greek Linguistics will take place in Cambridge, U.K. from Tuesday 23th to Friday 26th September 2025.
+The 17th International Conference on Greek Linguistics will take place in Cambridge, U.K. from Tuesday 23rd to Friday 26th of September 2025.
 Please see the _[Call for Papers](/en_cfp/)_
 
 
