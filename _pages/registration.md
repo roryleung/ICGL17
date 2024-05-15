@@ -24,4 +24,4 @@ Registration for the conference is priced as follows:
 
 _The early bird fees are applicable for registrations completed on or before **February 15, 2025**._
 
-Other details regarding registration are will be released shortly. 
+Other details regarding registration will be released shortly. 
