@@ -1,5 +1,5 @@
 ---
-title: "The 17th International Conference on Greek Linguistics   "
+title: "The 17th International Conference on Greek Linguistics"
 layout: splash
 permalink: /en_cfp/
 header:
