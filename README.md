@@ -1,4 +1,4 @@
-# IVACS 2024 conference website
+#ICGL17 conference website
 
 This is the code for the conference website for the [17th International Conference on Greek Linguistics](https://http://icgl17.mmll.cam.ac.uk) (ICGL17) -- based on the code for [IVACS 2024](https://github.com/cainesap/ivacs2024).
 
