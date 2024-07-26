@@ -21,7 +21,7 @@ Those who wish to participate in ICGL17 with a presentation are invited to submi
 ## Revised Submission Guidelines
 
 - **Single or First Author Limitation**: Each participant is entitled to submit only **one abstract** as a single author or as the first author.
-- **Co-Authorship Limitation**: There is a restriction of **a maximum of two papers** an researcher may submit as a co-author.
+- **Co-Authorship Limitation**: There is a restriction of **a maximum of two papers** a participant may submit as a co-author.
 
 ### Submission for Thematic Workshops  
 
