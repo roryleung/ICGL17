@@ -23,10 +23,7 @@ Those who wish to participate in ICGL17 with a presentation are invited to submi
 - Abstracts should be typeset to A4 size, 1.5 line spacing with 2.5 cm margins in 11pt Arial font.
 - A full line should be inserted between the title and the body of the text.
 - Page numbers should be omitted.
-Authors are permitted one full A4 page of text, with a second page for supplemental example sentences, figures, and references.
-
-## Abstract Submission Policy
-
+- Authors are permitted one full A4 page of text, with a second page for supplemental example sentences, figures, and references.
 - **Single or First Author Limitation**: Each participant is entitled to submit only **one abstract** as a single author or as the first author.
 - **Co-Authorship Limitation**: There is a restriction of **a maximum of two papers** a participant may submit as a co-author.
 
