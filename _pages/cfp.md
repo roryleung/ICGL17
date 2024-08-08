@@ -25,7 +25,7 @@ Those who wish to participate in ICGL17 with a presentation are invited to submi
 - Page numbers should be omitted.
 Authors are permitted one full A4 page of text, with a second page for supplemental example sentences, figures, and references.
 
-## Revised Submission Guidelines
+## Abstract Submission Policy
 
 - **Single or First Author Limitation**: Each participant is entitled to submit only **one abstract** as a single author or as the first author.
 - **Co-Authorship Limitation**: There is a restriction of **a maximum of two papers** a participant may submit as a co-author.
