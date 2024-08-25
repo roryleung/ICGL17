@@ -42,8 +42,8 @@ The following information should be included in the abstract submitted on the fo
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em;}
 </style>
-| Abstract deadline (**Workshops**) | 31st August 2024 |
-| Abstract deadline (**Papers**) | 15th September 2024 |
+| Abstract deadline (**Workshops**) | ~~31st August 2024~~ **15th September 2024** |
+| Abstract deadline (**Papers**) | ~~15th September 2024~~ **30th September 2024** |
 | Notification | 15th December 2024 |
 | Conference | 23-26th September 2025 |
 
