@@ -19,7 +19,7 @@ ICGL has been held every two years since 1993 and focuses on all aspects of the 
 Those who wish to participate in ICGL17 with a presentation are invited to submit two copies of their abstracts (one anonymous and one signed) by **15th September 2024**. Notification of acceptance will be sent by **15th December 2024**. Papers may be presented either in Greek or in English and should be 20 minutes long followed by a 10-minute discussion. Information on poster presentations will be sent out in the near future. 
 
 **Guidelines for Abstract Submissions**
-- Abstracts should be submitted as a PDF file.
+- Abstracts should be submitted as a DOC, DOCX, or RTF  file.
 - Abstracts should be typeset to A4 size, 1.5 line spacing with 2.5 cm margins in 11pt Arial font.
 - A full line should be inserted between the title and the body of the text.
 - Page numbers should be omitted.
