@@ -19,5 +19,8 @@ main:
   - title: "Contact"
     url: /en_contact/
 
+  - title: "Announcements"               
+    url: /en_annoucement/ 
+
   - title: "🇬🇷"
     url: "javascript:var newPath = window.location.pathname.replace('/en_', '/gr_'); if (newPath === window.location.pathname) {newPath += 'gr_home/';} window.location.href = newPath;"
