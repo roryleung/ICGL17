@@ -4,7 +4,7 @@ layout: splash
 permalink: /en_annoucement/
 header:
   overlay_image: "/assets/images/river_cam.jpg"  # You can change this to another image
-excerpt: "We are pleased to announce the availability of 10 accommodation bursaries for the 17th International Conference on Greek Linguistics."
+excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
 ---
 
 # **Conference Accommodation Bursary Announcement**
