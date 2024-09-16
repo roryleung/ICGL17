@@ -1,3 +1,12 @@
+---
+title: "Conference Accommodation Bursary Announcement"
+layout: splash  
+permalink: /en_annoucement/
+header:
+  overlay_image: "/assets/images/river_cam.jpg"  # You can change this to another image
+excerpt: "We are pleased to announce the availability of 10 accommodation bursaries for the 17th International Conference on Greek Linguistics."
+---
+
 # **Conference Accommodation Bursary Announcement**
 
 We are pleased to announce the availability of **10 accommodation bursaries** to support attendance at our upcoming conference in Cambridge. Each bursary will cover **£300** towards accommodation costs at designated conference accommodation venues and **waive the conference fee**. This initiative aims to assist participants in attending the conference by reducing their financial burdens related to accommodation and registration fees.
