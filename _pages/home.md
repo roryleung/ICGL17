@@ -5,13 +5,10 @@ permalink: /
 header:
   overlay_image: "/assets/images/river_cam.jpg"
   # caption: 'Photo of the river in Cambridge, U.K.'
-  logo: "/assets/images/logo_icgl.png"
-  logo_width: 150px
 excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
 
 ---
-<!-- Add the logo inside the header area -->
-<img src="/assets/images/logo_icgl.png" alt="ICGL Conference Logo" style="display: block; margin: 0 auto; width: 200px; height: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+
 
 ## Welcome!
 
