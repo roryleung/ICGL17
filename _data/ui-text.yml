@@ -699,6 +699,7 @@ gr: &DEFAULT_GR
   loading_label              : "Φόρτωση..."
   search_placeholder_text    : "Εισάγετε όρο αναζήτησης..."
   results_found              : "Αποτελέσματα"
+  announcements_label        : "Ανακοινώσεις"
 gr-GR:
   <<: *DEFAULT_GR
 
