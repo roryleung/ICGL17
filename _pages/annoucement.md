@@ -43,6 +43,8 @@ To apply for the accommodation bursary, please submit the following documents **
 - **Email address**: [icgl17@mmll.cam.ac.uk](mailto:icgl17@mmll.cam.ac.uk)
 - **Zip file name convention**: Please name the zip file as **“Surname_Bursary_Documents”** (e.g., Smith_Bursary_Documents)
 
+**Applications can be submitted in either Greek or English**. 
+
 The zip file should contain the following:
 
 ### **1. Personal Details (in a text file)**:
