@@ -24,8 +24,8 @@ Those who wish to participate in ICGL17 with a presentation are invited to submi
 - A full line should be inserted between the title and the body of the text.
 - Page numbers should be omitted.
 - Authors are permitted one full A4 page of text, with a second page for supplemental example sentences, figures, and references.
-- **Single or First Author Limitation**: Each participant is entitled to submit only **one abstract** as a single author or as the first author. This limitation applies to **both the main session and workshops**.
-- **Co-Authorship Limitation**: A participant may be listed as a co-author on **a maximum of two abstracts**. In these cases, **the participant cannot be the first author** and they must always be listed as a second author. This limitation applies to **both the main session and workshops**.
+- **Single or First Author Limitation**: Each participant is entitled to submit only **one abstract** as a single author or as the first author. This limitation applies to **both the main session and workshops**. However, participants who have submitted a singly authored abstract are also allowed to be the first author on **one** joint abstract.
+- **Co-Authorship Limitation**: A participant may be listed as a co-author on **a maximum of two abstracts**. In these cases, **the participant cannot be the first author** and they must always be listed as a second author. This limitation applies to **both the main session and workshops**, except when the participant is the first author on **one** joint abstract in addition to a singly authored submission.
 
 ### Submission for Thematic Workshops  
 
