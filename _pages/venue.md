@@ -10,4 +10,11 @@ excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
 
 ## Venue information
 
-To be released by Friday, 17th January 2025.
+The conference will be held at the Sidgwick Site, University of Cambridge.
+
+
+
+
+
+
+
