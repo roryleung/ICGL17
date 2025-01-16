@@ -22,6 +22,6 @@ Registration for the conference is priced as follows:
 | Early-bird student | 80.00 |
 | Student full-price | 100.00 |
 
-_The early bird fees are applicable for registrations completed on or before **28 February 2025**._
+_The early bird fees are applicable for registrations completed on or before **28 February 2025**._Full price applies to registrations from 1 March to 20 September 2025.
 
-Other details regarding registration will be released shortly. 
+Registration fee includes: Coffee breaks, Lunch on the 23rd and the 26th of September, the Conference Reception on the 24th of September at Queens’ College, and a punting experience.
