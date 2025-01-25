@@ -26,4 +26,5 @@ The early bird fees are applicable for registrations completed on or before **28
 
 Registration fee includes: Coffee breaks, Lunch on the 23rd and the 26th of September, the Conference Reception on the 24th of September at Queens’ College, and a punting experience.
 
-The registration online form will be made available in the coming days.
+**The registration is now open!**
+You can access the registration form by clicking [clicking here](https://onlinesales.admin.cam.ac.uk/conferences-and-events/modern-medieval-languages/greek-linguistics/the-17th-international-conference-on-greek-linguistics-september-2025).
