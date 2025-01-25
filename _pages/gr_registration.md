@@ -27,4 +27,5 @@ excerpt: "23-26 Σεπτεμβρίου 2025<br>Πανεπιστήμιο του C
 Το τέλος εγγραφής περιλαμβάνει: Ροφήματα καφέ, γεύματα στις 23 και 26 Σεπτεμβρίου, την επίσημη δεξίωση του συνεδρίου στις 24 Σεπτεμβρίου στο Queens’ College, καθώς και μία εμπειρία βαρκάδας.
 
 **Οι εγγραφές έχουν ξεκινήσει!**
+
 Μπορείτε να αποκτήσετε πρόσβαση στη φόρμα εγγραφής κάνοντας κλικ [εδώ](https://onlinesales.admin.cam.ac.uk/conferences-and-events/modern-medieval-languages/greek-linguistics/the-17th-international-conference-on-greek-linguistics-september-2025).
