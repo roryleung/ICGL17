@@ -24,6 +24,10 @@ Registration for the conference is priced as follows:
 
 *The early bird fees are applicable for registrations completed on or before **~~28 February 2025~~ 20 March 2025**. Full price applies to registrations from **21 March to 20 September 2025**.*
 
+> ⚠ **Important Deadline:**  
+> Conference participants who wish to present a paper, either in a workshop or as an individual presentation, **must register by Monday, March 31st**.  
+> This is essential for us to finalise the conference programme.
+
 Registration fee includes: Coffee breaks, Lunch on the 23rd and the 26th of September, the Conference Reception on the 24th of September at Queens’ College, and a punting experience.
 
 **The registration is now open!**
