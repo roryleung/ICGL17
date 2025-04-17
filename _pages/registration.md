@@ -26,8 +26,8 @@ Registration for the conference is priced as follows:
 
 > ⚠ **Important Deadline:**  
 > Conference participants who wish to present a paper, either in a workshop or as an individual presentation, **must register by Monday, March 31st**.  
-> This is essential for us to finalise the conference programme.
-> If you have not registered since March 31st and you are a presenter, **please make sure to register as soon as possible**.
+> This is essential for us to finalise the conference programme.  
+> If you have not registered since March 31st and you are a presenter, **please make sure to register as soon as possible**.  
 
 Registration fee includes: Coffee breaks, Lunch on the 23rd and the 26th of September, the Conference Reception on the 24th of September at Queens’ College, and a punting experience.
 
