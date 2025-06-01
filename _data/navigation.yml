@@ -14,7 +14,7 @@ main:
     url: /en_registration/
 
   - title: "Programme"
-    url: ""
+    url: /en_programme/
     
   - title: "Announcements"               
     url: /en_annoucement/ 
