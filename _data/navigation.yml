@@ -14,7 +14,7 @@ main:
     url: /en_registration/
 
   - title: "Programme"
-    url: "/downloads/Programme_ICGL.pdf"
+    url: ""
     
   - title: "Announcements"               
     url: /en_annoucement/ 
