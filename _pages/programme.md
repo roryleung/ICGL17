@@ -10,4 +10,4 @@ excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
 
 ## Programme details
 
-To be released
+[Click here to view the programme](/downloads/Programme_ICGL.pdf)
