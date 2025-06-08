@@ -19,45 +19,45 @@ Please see the _[Call for Papers](/en_cfp/)_
 <div style="max-width: 960px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
   <div style="width: 200px; text-align: center;">
-    <p><strong>Mary Baltazani</strong><br>University of Oxford</p>
     <img src="/assets/images/photo_Baltazani.jpeg"
          alt="Mary Baltazani"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
+    <p><strong>Mary Baltazani</strong><br>University of Oxford</p>
   </div>
 
   <div style="width: 200px; text-align: center;">
-    <p><strong>Vicky Chondrogianni</strong><br>University of Edinburgh</p>
     <img src="/assets/images/Vicky_2025.jpg"
          alt="Vicky Chondrogianni"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
+    <p><strong>Vicky Chondrogianni</strong><br>University of Edinburgh</p>
   </div>
 
   <div style="width: 200px; text-align: center;">
-    <p><strong>Georgios Giannakis</strong><br>Aristotle University of Thessaloniki</p>
     <img src="/assets/images/G. Giannakis.png"
          alt="Georgios Giannakis"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
+    <p><strong>Georgios Giannakis</strong><br>Aristotle University of Thessaloniki</p>
   </div>
 
   <div style="width: 200px; text-align: center;">
-    <p><strong>Kleanthes Grohmann</strong><br>University of Cyprus</p>
     <img src="/assets/images/KKG_1.jpg"
          alt="Kleanthes Grohmann"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
+    <p><strong>Kleanthes Grohmann</strong><br>University of Cyprus</p>
   </div>
 
   <div style="width: 200px; text-align: center;">
-    <p><strong>Sophia Marmaridou</strong><br>National and Kapodistrian University of Athens</p>
     <img src="/assets/images/Marmaridou_2024_photo.jpg"
          alt="Sophia Marmaridou"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
+    <p><strong>Sophia Marmaridou</strong><br>National and Kapodistrian University of Athens</p>
   </div>
 
   <div style="width: 200px; text-align: center;">
-    <p><strong>George Tsoulas</strong><br>University of York</p>
     <img src="/assets/images/logo_owl_icon.png"
          alt="George Tsoulas"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
+    <p><strong>George Tsoulas</strong><br>University of York</p>
   </div>
 
 </div>
