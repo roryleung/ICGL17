@@ -16,9 +16,19 @@ Please see the _[Call for Papers](/en_cfp/)_
 
 ### Invited Speakers
 
-* Mary Baltazani, University of Oxford
-* Vicky Chondrogianni, University of Edinburgh
-* Georgios Giannakis, Aristotle University of Thessaloniki
-* Kleanthes Grohmann, University of Cyprus
-* Sophia Marmaridou, National and Kapodistrian University of Athens
-* George Tsoulas, University of York
+**Mary Baltazani**, University of Oxford  
+![Mary Baltazani](/assets/images/photo_Baltazani.jpg)
+
+**Vicky Chondrogianni**, University of Edinburgh  
+![Vicky Chondrogianni](/assets/images/Vicky_2025.jpg)
+
+**Georgios Giannakis**, Aristotle University of Thessaloniki  
+![Georgios Giannakis](/assets/images/G. Giannakis.png)
+
+**Kleanthes Grohmann**, University of Cyprus  
+![Kleanthes Grohmann](/assets/images/KKG_1.jpg)
+
+**Sophia Marmaridou**, National and Kapodistrian University of Athens  
+![Sophia Marmaridou](/assets/images/Marmaridou_2024_photo.jpg)
+
+**George Tsoulas**, University of York  
