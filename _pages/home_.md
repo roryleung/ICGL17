@@ -79,7 +79,7 @@ Please see the _[Call for Papers](/en_cfp/)_
   </div>
 
   <div style="width: 200px; text-align: center;">
-    <img src="/assets/images/tsoulas.jpg"
+    <img src="/assets/images/logo_owl_icon.png"
          alt="George Tsoulas"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
     <p><strong>George Tsoulas</strong><br>
