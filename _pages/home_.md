@@ -16,19 +16,43 @@ Please see the _[Call for Papers](/en_cfp/)_
 
 ### Invited Speakers
 
-**Mary Baltazani**, University of Oxford  
-![Mary Baltazani](/assets/images/photo_Baltazani.jpg)
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
 
-**Vicky Chondrogianni**, University of Edinburgh  
-![Vicky Chondrogianni](/assets/images/Vicky_2025.jpg)
+  <div style="text-align: center;">
+    <p><strong>Mary Baltazani</strong><br>University of Oxford</p>
+    <img src="/assets/images/photo_Baltazani.jpg"
+         alt="Mary Baltazani"
+         style="width:200px; height:250px; object-fit:cover; border-radius:8px;">
+  </div>
 
-**Georgios Giannakis**, Aristotle University of Thessaloniki  
-![Georgios Giannakis](/assets/images/G. Giannakis.png)
+  <div style="text-align: center;">
+    <p><strong>Vicky Chondrogianni</strong><br>University of Edinburgh</p>
+    <img src="/assets/images/Vicky_2025.jpg"
+         alt="Vicky Chondrogianni"
+         style="width:200px; height:250px; object-fit:cover; border-radius:8px;">
+  </div>
 
-**Kleanthes Grohmann**, University of Cyprus  
-![Kleanthes Grohmann](/assets/images/KKG_1.jpg)
+  <div style="text-align: center;">
+    <p><strong>Georgios Giannakis</strong><br>Aristotle University of Thessaloniki</p>
+    <img src="/assets/images/G. Giannakis.png"
+         alt="Georgios Giannakis"
+         style="width:200px; height:250px; object-fit:cover; border-radius:8px;">
+  </div>
 
-**Sophia Marmaridou**, National and Kapodistrian University of Athens  
-![Sophia Marmaridou](/assets/images/Marmaridou_2024_photo.jpg)
+  <div style="text-align: center;">
+    <p><strong>Kleanthes Grohmann</strong><br>University of Cyprus</p>
+    <img src="/assets/images/KKG_1.jpg"
+         alt="Kleanthes Grohmann"
+         style="width:200px; height:250px; object-fit:cover; border-radius:8px;">
+  </div>
+
+  <div style="text-align: center;">
+    <p><strong>Sophia Marmaridou</strong><br>National and Kapodistrian University of Athens</p>
+    <img src="/assets/images/Marmaridou_2024_photo.jpg"
+         alt="Sophia Marmaridou"
+         style="width:200px; height:250px; object-fit:cover; border-radius:8px;">
+  </div>
+
+</div>
 
 **George Tsoulas**, University of York  
