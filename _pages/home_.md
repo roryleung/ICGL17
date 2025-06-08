@@ -22,42 +22,54 @@ Please see the _[Call for Papers](/en_cfp/)_
     <img src="/assets/images/photo_Baltazani.jpeg"
          alt="Mary Baltazani"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Mary Baltazani</strong><br>University of Oxford</p>
+    <p><strong>Mary Baltazani</strong><br>
+    University of Oxford<br>
+    <a href="/downloads/abstract_Baltazani.pdf" target="_blank" title="View abstract">📄 Abstract</a></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/Vicky_2025.jpg"
          alt="Vicky Chondrogianni"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Vicky Chondrogianni</strong><br>University of Edinburgh</p>
+    <p><strong>Vicky Chondrogianni</strong><br>
+    University of Edinburgh<br>
+    <a href="/downloads/Chondrogianni_plenary_ICGL 2025.pdf" target="_blank" title="View abstract">📄 Abstract</a></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/G. Giannakis.png"
          alt="Georgios Giannakis"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Georgios Giannakis</strong><br>Aristotle University of Thessaloniki</p>
+    <p><strong>Georgios Giannakis</strong><br>
+    Aristotle University of Thessaloniki<br>
+    <a href="/downloads/Giannakis_ICGL17 Abstract.pdf" target="_blank" title="View abstract">📄 Abstract</a></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/KKG_1.jpg"
          alt="Kleanthes Grohmann"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Kleanthes Grohmann</strong><br>University of Cyprus</p>
+    <p><strong>Kleanthes Grohmann</strong><br>
+    University of Cyprus<br>
+    <a href="/downloads/Grohmann_ICGL17-abstract.pdf" target="_blank" title="View abstract">📄 Abstract</a></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/Marmaridou_2024_photo.jpg"
          alt="Sophia Marmaridou"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Sophia Marmaridou</strong><br>National and Kapodistrian University of Athens</p>
+    <p><strong>Sophia Marmaridou</strong><br>
+    National and Kapodistrian University of Athens<br>
+    <a href="/downloads/ICGL 17_Abstract_Marmaridou.pdf" target="_blank" title="View abstract">📄 Abstract</a></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/logo_owl_icon.png"
          alt="George Tsoulas"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>George Tsoulas</strong><br>University of York</p>
+    <p><strong>George Tsoulas</strong><br>
+    University of York<br>
+    <a href="/downloads/Programme_07_06.pdf" target="_blank" title="View abstract">📄 Abstract</a></p>
   </div>
 
 </div>
