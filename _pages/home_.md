@@ -27,7 +27,9 @@ Please see the _[Call for Papers](/en_cfp/)_
     <a href="/downloads/abstract_Baltazani.pdf"
        target="_blank"
        title="View abstract"
-       style="text-decoration: none; color: inherit;">📄</a></p>
+       style="text-decoration: none; color: #d73a49; font-size: 1.2em;">
+       <i class="fas fa-file-pdf"></i>
+    </a></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
@@ -39,7 +41,9 @@ Please see the _[Call for Papers](/en_cfp/)_
     <a href="/downloads/Chondrogianni_plenary_ICGL 2025.pdf"
        target="_blank"
        title="View abstract"
-       style="text-decoration: none; color: inherit;">📄</a></p>
+       style="text-decoration: none; color: #d73a49; font-size: 1.2em;">
+       <i class="fas fa-file-pdf"></i>
+    </a></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
@@ -51,7 +55,9 @@ Please see the _[Call for Papers](/en_cfp/)_
     <a href="/downloads/Giannakis_ICGL17 Abstract.pdf"
        target="_blank"
        title="View abstract"
-       style="text-decoration: none; color: inherit;">📄</a></p>
+       style="text-decoration: none; color: #d73a49; font-size: 1.2em;">
+       <i class="fas fa-file-pdf"></i>
+    </a></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
@@ -63,7 +69,9 @@ Please see the _[Call for Papers](/en_cfp/)_
     <a href="/downloads/Grohmann_ICGL17-abstract.pdf"
        target="_blank"
        title="View abstract"
-       style="text-decoration: none; color: inherit;">📄</a></p>
+       style="text-decoration: none; color: #d73a49; font-size: 1.2em;">
+       <i class="fas fa-file-pdf"></i>
+    </a></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
@@ -75,7 +83,9 @@ Please see the _[Call for Papers](/en_cfp/)_
     <a href="/downloads/ICGL 17_Abstract_Marmaridou.pdf"
        target="_blank"
        title="View abstract"
-       style="text-decoration: none; color: inherit;">📄</a></p>
+       style="text-decoration: none; color: #d73a49; font-size: 1.2em;">
+       <i class="fas fa-file-pdf"></i>
+    </a></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
@@ -87,7 +97,9 @@ Please see the _[Call for Papers](/en_cfp/)_
     <a href="/downloads/Programme_07_06.pdf"
        target="_blank"
        title="View abstract"
-       style="text-decoration: none; color: inherit;">📄</a></p>
+       style="text-decoration: none; color: #d73a49; font-size: 1.2em;">
+       <i class="fas fa-file-pdf"></i>
+    </a></p>
   </div>
 
 </div>
