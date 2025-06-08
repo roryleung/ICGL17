@@ -20,7 +20,7 @@ Please see the _[Call for Papers](/en_cfp/)_
 
   <div style="text-align: center;">
     <p><strong>Mary Baltazani</strong><br>University of Oxford</p>
-    <img src="/assets/images/photo_Baltazani.jpg"
+    <img src="/assets/images/photo_Baltazani.jpeg"
          alt="Mary Baltazani"
          style="width:200px; height:250px; object-fit:cover; border-radius:8px;">
   </div>
