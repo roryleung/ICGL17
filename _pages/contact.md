@@ -20,37 +20,44 @@ For more information, contact the Organising Committee at <a href="mailto:icgl17
     <img src="/assets/images/Ianthi.jpg"
          alt="Ianthi Tsimpli"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Ianthi Tsimpli</strong><br>
-    Author Affiliation<br>
-    </p>
+    <p><strong>Ianthi Tsimpli</strong></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/Ioanna.jpg"
          alt="Ioanna Sitaridou"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Ioanna Sitaridou</strong><br>
-    Author Affiliation<br>
-    </p>
+    <p><strong>Ioanna Sitaridou</strong></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/Dora.jpg"
          alt="Dora Alexopoulou"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Dora Alexopoulou</strong><br>
-    Author Affiliation<br>
-    </p>
+    <p><strong>Dora Alexopoulou</strong></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/Chara.jpg"
          alt="Chara Triantafyllidou"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Chara Triantafyllidou</strong><br>
-    Author Affiliation<br>
-    </p>
+    <p><strong>Chara Triantafyllidou</strong></p>
   </div>
 
-  <div style="width: 200
+  <div style="width: 200px; text-align: center;">
+    <img src="/assets/images/Leonardo.jpg"
+         alt="Leonardo Russo-Cardona"
+         style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
+    <p><strong>Leonardo Russo-Cardona</strong></p>
+  </div>
+
+  <div style="width: 200px; text-align: center;">
+    <img src="/assets/images/dim.jpg"
+         alt="Dimitrios Kastanas"
+         style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
+    <p><strong>Dimitrios Kastanas</strong></p>
+  </div>
+
+</div>
+
 
