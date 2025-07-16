@@ -31,7 +31,7 @@ For more information, contact the Organising Committee at <a href="mailto:icgl17
   </div>
 
   <div style="width: 200px; text-align: center;">
-    <img src="/assets/images/Napoleon.jpg"
+    <img src="/assets/images/Napoleon.JPG"
          alt="Napoleon"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
     <p><strong>Napoleon</strong></p>
@@ -59,7 +59,7 @@ For more information, contact the Organising Committee at <a href="mailto:icgl17
   </div>
 
   <div style="width: 200px; text-align: center;">
-    <img src="/assets/images/Chara.jpg"
+    <img src="/assets/images/Chara.JPG"
          alt="Chara Triantafyllidou"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
     <p><strong>Chara Triantafyllidou</strong></p>
