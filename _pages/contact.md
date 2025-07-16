@@ -18,67 +18,39 @@ For more information, contact the Organising Committee at <a href="mailto:icgl17
 
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/Ianthi.jpg"
-         alt="Ianthi"
+         alt="Ianthi Tsimpli"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Ianthi</strong><br>
+    <p><strong>Ianthi Tsimpli</strong><br>
     Author Affiliation<br>
-    <!-- Optional abstract link -->
-  </p>
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <img src="/assets/images/Dora.jpg"
-         alt="Dora"
-         style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Dora</strong><br>
-    Author Affiliation<br>
-  </p>
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <img src="/assets/images/Napoleon.jpg"
-         alt="Napoleon"
-         style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Napoleon</strong><br>
-    Author Affiliation<br>
-  </p>
+    </p>
   </div>
 
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/Ioanna.jpg"
-         alt="Ioanna"
+         alt="Ioanna Sitaridou"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Ioanna</strong><br>
+    <p><strong>Ioanna Sitaridou</strong><br>
     Author Affiliation<br>
-  </p>
+    </p>
   </div>
 
   <div style="width: 200px; text-align: center;">
-    <img src="/assets/images/dim.jpg"
-         alt="Dim"
+    <img src="/assets/images/Dora.jpg"
+         alt="Dora Alexopoulou"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Dim</strong><br>
+    <p><strong>Dora Alexopoulou</strong><br>
     Author Affiliation<br>
-  </p>
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <img src="/assets/images/Leonardo.jpg"
-         alt="Leonardo"
-         style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Leonardo</strong><br>
-    Author Affiliation<br>
-  </p>
+    </p>
   </div>
 
   <div style="width: 200px; text-align: center;">
     <img src="/assets/images/Chara.jpg"
-         alt="Chara"
+         alt="Chara Triantafyllidou"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Chara</strong><br>
+    <p><strong>Chara Triantafyllidou</strong><br>
     Author Affiliation<br>
-  </p>
+    </p>
   </div>
 
-</div>
+  <div style="width: 200
 
