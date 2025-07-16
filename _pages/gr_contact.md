@@ -36,7 +36,7 @@ excerpt: "23-26 Σεπτεμβρίου 2025<br>Πανεπιστήμιο του C
     <img src="/assets/images/Napoleon.JPG"
          alt="Napoleon"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
-    <p><strong>Napoleon</strong></p>
+    <p><strong>Napoleon Katsos</strong></p>
   </div>
 
   <div style="width: 200px; text-align: center;">
