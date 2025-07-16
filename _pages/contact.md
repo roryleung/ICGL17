@@ -21,6 +21,8 @@ For more information, contact the Organising Committee at <a href="mailto:icgl17
          alt="Ianthi Tsimpli"
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
     <p><strong>Ianthi Tsimpli</strong></p>
+    <span style="display: block; font-size: 0.95em; color: #555;">President</span>
+
   </div>
 
   <div style="width: 200px; text-align: center;">
