@@ -14,6 +14,7 @@ excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
 
 
 Each book includes the abstract in English first, followed by the abstract in Greek. You can use the search function to quickly locate abstracts.
+
 To view each programme day along with the corresponding abstracts, please click below:
 
 <div style="display: flex; flex-direction: column; gap: 1em;">
