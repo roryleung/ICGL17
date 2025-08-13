@@ -20,22 +20,22 @@ To view each programme day along with the corresponding abstracts, please click 
 <div style="display: flex; flex-direction: column; gap: 1em;">
 
   <div style="display: flex; gap: 1em;">
-    <a class="day-button" href="/downloads/Programme_07_06_1-2.pdf">Programme <strong>Day 1</strong></a>
+    <a class="day-button" href="/downloads/Programme_17_07_TUE.pdf">Programme <strong>Day 1</strong></a>
     <a class="day-button" href="/downloads/tues_1-2.pdf">Abstracts <strong>Day 1</strong></a>
   </div>
 
   <div style="display: flex; gap: 1em;">
-    <a class="day-button" href="/downloads/Programme_07_06_3-5.pdf">Programme <strong>Day 2</strong></a>
+    <a class="day-button" href="/downloads/Programme_17_07_WED.pdf">Programme <strong>Day 2</strong></a>
     <a class="day-button" href="/downloads/wed_3-5.pdf">Abstracts <strong>Day 2</strong></a>
   </div>
 
   <div style="display: flex; gap: 1em;">
-    <a class="day-button" href="/downloads/Programme_07_06_6-8.pdf">Programme <strong>Day 3</strong></a>
+    <a class="day-button" href="/downloads/Programme_17_07_THU.pdf">Programme <strong>Day 3</strong></a>
     <a class="day-button" href="/downloads/thurs_6-8.pdf">Abstracts <strong>Day 3</strong></a>
   </div>
 
   <div style="display: flex; gap: 1em;">
-    <a class="day-button" href="/downloads/Programme_07_06_9-10.pdf">Programme <strong>Day 4</strong></a>
+    <a class="day-button" href="/downloads/Programme_17_07_FRI.pdf">Programme <strong>Day 4</strong></a>
     <a class="day-button" href="/downloads/fri_9-10.pdf">Abstracts <strong>Day 4</strong></a>
   </div>
 
