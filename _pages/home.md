@@ -96,7 +96,7 @@ Please see the _[Call for Papers](/en_cfp/)_
          style="width: 200px; height: 250px; object-fit: cover; border-radius: 8px;">
     <p><strong>George Tsoulas</strong><br>
     University of York<br>
-    <a href="/downloads/Programme_07_06.pdf"
+    <a href="/downloads/abstract_tsoulas.pdf"
        target="_blank"
        title="View abstract"
        style="text-decoration: none; color: #d73a49; font-size: 1.2em;">
