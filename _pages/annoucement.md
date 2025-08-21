@@ -10,6 +10,7 @@ excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
 # **Contents**
 
 - [Electronic Travel Authorisation (ETA) Requirement](#electronic-travel-authorisation-eta-requirement)
+- [Refund Requests Deadline](#refunds)
 - [Travelling to Cambridge](#travelling-to-cambridge)
 - [Getting around Cambridge](#getting-around-cambridge)
 - [Conference Accommodation Bursary Announcement](#conference-accommodation-bursary-announcement)
@@ -31,6 +32,17 @@ Full details are available on the official UK government website:
 - Please ensure you use only the **official gov.uk website** and avoid unofficial sites.
 
 We look forward to welcoming you to Cambridge in September.
+
+---
+
+# **Important Notice on Refund Requests** {#refunds}
+
+As the conference approaches, we would like to inform participants that **refund requests for accommodation, registration, or dinner submitted after **22 August** will not be processed**, due to logistical reasons.
+
+If you have any questions, please do not hesitate to contact us at [icgl17@mmll.cam.ac.uk](mailto:icgl17@mmll.cam.ac.uk).
+
+*Best regards,*  
+**The Organising Committee**
 
 ---
 
