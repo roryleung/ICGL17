@@ -1,5 +1,5 @@
 ---
-title: "Conference Accommodation Bursary Announcement"
+title: "Conference Announcements"
 layout: splash  
 permalink: /en_annoucement/
 header:
@@ -9,9 +9,28 @@ excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
 
 # **Contents**
 
+- [Electronic Travel Authorisation (ETA) Requirement](#electronic-travel-authorisation-eta-requirement)
 - [Travelling to Cambridge](#travelling-to-cambridge)
 - [Getting around Cambridge](#getting-around-cambridge)
 - [Conference Accommodation Bursary Announcement](#conference-accommodation-bursary-announcement)
+
+---
+
+# **Electronic Travel Authorisation (ETA) Requirement**
+
+The UK government has introduced the **Electronic Travel Authorisation (ETA)** scheme as part of its updated border procedures.  
+Depending on your nationality, you **may need to obtain an ETA before travelling to the UK**.
+
+We strongly encourage all international participants to **check their ETA requirements as early as possible**.  
+Full details are available on the official UK government website:  
+👉 [Electronic Travel Authorisation (ETA) – gov.uk](https://www.gov.uk/guidance/electronic-travel-authorisation-eta)
+
+- The **application process is fully online** and typically takes only a few minutes to complete.  
+- Most applications are processed **within three working days**, but we recommend applying **well in advance** of your travel date.  
+- Airlines may not allow you to board without an ETA.  
+- Please ensure you use only the **official gov.uk website** and avoid unofficial sites.
+
+We look forward to welcoming you to Cambridge in September.
 
 ---
 
