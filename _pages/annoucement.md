@@ -58,7 +58,6 @@ Parking in the city centre is limited and several city centre roads have restric
 ### Disabled parking
 Disabled parking is available in the city’s car parks and on some streets. Please check in advance with the Cambridge Tourist Information Centre or visit [www.cambridge.gov.uk/parking](https://www.cambridge.gov.uk/parking).
 
-If you're visiting for the Open Days, check the accessibility information on the *Information for the day* page.
 
 ## 2) By train
 The main station is about one mile from the city centre.
@@ -83,8 +82,6 @@ In addition, buses regularly run from Stansted, Luton, Heathrow and Gatwick airp
 
 ## 1) Walking
 Where possible, walking is often the most convenient way to travel around the city.
-
-If you’re attending the Open Days, download our map (PDF, 2MB) to help you find your way around the city and open day sites.
 
 ### Estimated walking times and distances
 The estimated times will vary depending on your route and walking pace.
