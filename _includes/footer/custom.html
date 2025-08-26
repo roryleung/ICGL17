@@ -1,55 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aligned Footer</title>
+    <style>
+        body {
+            background-color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
 <footer>
   <div class="footer-content" 
        style="display: flex; justify-content: center; align-items: flex-end; flex-wrap: nowrap; gap: 20px;">
-
     <!-- First logo (ICGL 17) -->
-    <div style="text-align: center;">
-      <img src="/assets/images/logo_icgl.png" alt="ICGL Logo" style="width: 100px; height: auto;">
-      <p style="color: white; margin-top: 5px;">&copy; ICGL 17</p>
+    <div style="text-align: center; display: flex; flex-direction: column; justify-content: flex-end; height: 120px;">
+      <div style="flex-grow: 1; display: flex; align-items: flex-end; justify-content: center;">
+        <img src="/assets/images/logo_icgl.png" alt="ICGL Logo" style="width: 100px; height: auto; max-height: 100px; object-fit: contain;">
+      </div>
+      <p style="color: white; margin-top: 5px; margin-bottom: 0; height: 35px; display: flex; align-items: flex-start;">&copy; ICGL 17</p>
     </div>
     
     <!-- Second logo (Greek Orthodox Archdiocese) -->
-    <div style="text-align: center;">
-      <a href="https://www.thyateira.org.uk/" target="_blank">
-        <img src="/assets/images/logo_church.png" alt="Church logo" style="width: 300px; height: auto;">
-      </a>
-      <p style="color: white; margin-top: 5px; margin-bottom: -3px;">
-        &copy; Greek Orthodox Archdiocese<br>of Thyateira and Great Britain
+    <div style="text-align: center; display: flex; flex-direction: column; justify-content: flex-end; height: 120px;">
+      <div style="flex-grow: 1; display: flex; align-items: flex-end; justify-content: center;">
+        <a href="https://www.thyateira.org.uk/" target="_blank">
+          <img src="/assets/images/logo_church.png" alt="Church logo" style="width: 300px; height: auto; max-height: 80px; object-fit: contain;">
+        </a>
+      </div>
+      <p style="color: white; margin-top: 5px; margin-bottom: 0; line-height: 1.2; height: 35px; display: flex; flex-direction: column; justify-content: flex-start;">
+        <span>&copy; Greek Orthodox Archdiocese</span>
+        <span style="font-size: 0.9em;">of Thyateira and Great Britain</span>
       </p>
     </div>
-
+    
     <!-- Third logo (GAED) -->
-    <div style="text-align: center;">
-      <a href="https://www.mfa.gr/cvs/maira-myrogianni/" target="_blank">
-        <img src="/assets/images/GAED.png" alt="GAED Logo" style="width: 150px; height: auto;">
-      </a>
-      <p style="color: white; margin-top: 5px;">&copy; GAED</p>
+    <div style="text-align: center; display: flex; flex-direction: column; justify-content: flex-end; height: 120px;">
+      <div style="flex-grow: 1; display: flex; align-items: flex-end; justify-content: center;">
+        <a href="https://www.mfa.gr/cvs/maira-myrogianni/" target="_blank">
+          <img src="/assets/images/GAED.png" alt="GAED Logo" style="width: 150px; height: auto; max-height: 100px; object-fit: contain;">
+        </a>
+      </div>
+      <p style="color: white; margin-top: 5px; margin-bottom: 0; height: 35px; display: flex; align-items: flex-start;">&copy; GAED</p>
     </div>
-
+    
     <!-- Fourth logo (Cyprus Educational Mission) -->
-    <div style="text-align: center;">
-      <a href="https://kea.schools.ac.cy/" target="_blank">
-        <img src="/assets/images/logo_owl_icon.png" alt="Owl Icon Logo" style="width: 100px; height: auto;">
-      </a>
-      <p style="color: white; margin-top: 5px;">&copy; Cyprus Educational Mission</p>
+    <div style="text-align: center; display: flex; flex-direction: column; justify-content: flex-end; height: 120px;">
+      <div style="flex-grow: 1; display: flex; align-items: flex-end; justify-content: center;">
+        <a href="https://kea.schools.ac.cy/" target="_blank">
+          <img src="/assets/images/logo_owl_icon.png" alt="Owl Icon Logo" style="width: 100px; height: auto; max-height: 100px; object-fit: contain;">
+        </a>
+      </div>
+      <p style="color: white; margin-top: 5px; margin-bottom: 0; height: 35px; display: flex; align-items: flex-start;">&copy; Cyprus Educational Mission</p>
     </div>
-
+    
     <!-- Fifth logo (CCGS Block Logo) -->
-    <div style="text-align: center;">
-      <a href="https://www.ccgs.csah.cam.ac.uk/" target="_blank">
-        <img src="/assets/images/CCGS Block Logo 6 Nimala Semi-bold UI altered for bow layers flattened 2000 x 421.png" 
-             alt="CCGS Block Logo" style="width: 200px; height: auto;">
-      </a>
-      <p style="color: white; margin-top: 5px;">&copy; CCGS</p>
+    <div style="text-align: center; display: flex; flex-direction: column; justify-content: flex-end; height: 120px;">
+      <div style="flex-grow: 1; display: flex; align-items: flex-end; justify-content: center;">
+        <a href="https://www.ccgs.csah.cam.ac.uk/" target="_blank">
+          <img src="/assets/images/CCGS Block Logo 6 Nimala Semi-bold UI altered for bow layers flattened 2000 x 421.png" 
+               alt="CCGS Block Logo" style="width: 200px; height: auto; max-height: 100px; object-fit: contain;">
+        </a>
+      </div>
+      <p style="color: white; margin-top: 5px; margin-bottom: 0; height: 35px; display: flex; align-items: flex-start;">&copy; CCGS</p>
     </div>
-
+    
     <!-- Sixth logo (Greece in UK) -->
-    <div style="text-align: center;">
-      <a href="https://www.mfa.gr/uk/en/" target="_blank">
-        <img src="/assets/images/greece in uk.jpg" alt="Greece in UK Logo" style="width: 150px; height: auto;">
-      </a>
-      <p style="color: white; margin-top: 5px;">&copy; Greece in UK</p>
+    <div style="text-align: center; display: flex; flex-direction: column; justify-content: flex-end; height: 120px;">
+      <div style="flex-grow: 1; display: flex; align-items: flex-end; justify-content: center;">
+        <a href="https://www.mfa.gr/uk/en/" target="_blank">
+          <img src="/assets/images/greece in uk.jpg" alt="Greece in UK Logo" style="width: 150px; height: auto; max-height: 100px; object-fit: contain;">
+        </a>
+      </div>
+      <p style="color: white; margin-top: 5px; margin-bottom: 0; height: 35px; display: flex; align-items: flex-start;">&copy; Greece in UK</p>
     </div>
-
   </div>
 </footer>
+
+</body>
+</html>
