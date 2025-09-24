@@ -10,7 +10,7 @@ excerpt: "23-26 September 2025<br>University of Cambridge, U.K."
 
 ## Programme details
 
-[Click here to view the programme](/downloads/Programme_22_09_without_chairs.pdf)
+[Click here to view the programme](/downloads/Programme_24_09_without_chairs.pdf)
 
 
 Each book includes the abstract in English first, followed by the abstract in Greek. You can use the search function to quickly locate abstracts.
