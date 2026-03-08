@@ -3,6 +3,9 @@
 main:
   - title: "Home"
     url: /
+
+  - title: Conference Proceedings
+    url: /proceedings/
   
   - title: "Call for Papers"
     url: /en_cfp/
