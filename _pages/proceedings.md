@@ -15,6 +15,8 @@ The submission platform is now available. You can access it using the following 
 
 [Access the submission platform](https://docs.google.com/forms/d/e/1FAIpQLSfYrYX-BrIfbcexB0joKfkubD-yBsDGBa_rm3u6uGxVndAWQQ/viewform?usp=dialog)
 
+Please submit your paper no later than **31 March 2026**.
+
 ## Submission Guidelines
 
 Please read the submission guidelines carefully before uploading your paper:
@@ -31,3 +33,4 @@ Please note the following requirements:
 ## Author Names
 
 For sorting purposes, **all authors must submit their names using Latin characters**.
+
