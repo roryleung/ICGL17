@@ -15,7 +15,7 @@ The submission platform is now available. You can access it using the following 
 
 [Access the submission platform](https://docs.google.com/forms/d/e/1FAIpQLSfYrYX-BrIfbcexB0joKfkubD-yBsDGBa_rm3u6uGxVndAWQQ/viewform?usp=dialog)
 
-Please submit your paper no later than **31 March 2026**.
+Please submit your paper no later than **30 April 2026**.
 
 ## Submission Guidelines
 
